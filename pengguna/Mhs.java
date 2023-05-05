@@ -1,5 +1,7 @@
 package pengguna;
 
-public class Mhs {
-    
+class Mhs {
+    Mhs () {
+
+    }
 }
